@@ -11,6 +11,9 @@ Run the server:
 cargo run
 ```
 
-For a better experience open two browsers and access this endpoint http://127.0.0.1:8000/.
+For a better experience open two browsers and access the follow endpoint:
+```
+http://127.0.0.1:8000
+```
 
 ![chat-app](./images/chat-app.jpeg)
