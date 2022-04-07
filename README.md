@@ -17,3 +17,9 @@ http://127.0.0.1:8000
 ```
 
 ![chat-app](./images/chat-app.jpeg)
+
+
+## Dependencies
+
+[Rocket](https://crates.io/crates/rocket/0.5.0-rc.1)
+[Rand](https://crates.io/crates/rand)
